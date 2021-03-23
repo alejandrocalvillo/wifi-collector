@@ -1,0 +1,33 @@
+***********************************************************************************************************************
+	HOUR		        DAY		        DESCRIPTION
+***********************************************************************************************************************
+     16:00-16:45     12/10/2020		    Writing function that displays main menu.
+      
+     19:30-22:35     15/10/2020         Coding menu functionality in main and implementing the menu display.
+
+     15:15-17:00     24/10/2020         Implementing the read number option.
+
+     14:45-16:30     26/10/2020         Writing wificollector quit function.
+
+     20:30-00:30     28/10/2020         Implementing the before mentioned functions into the main file, cleaning the 
+                                        code up and removing any errors in the code.
+					
+     09:45-11:15     29/10/2020         Writing makefile archives and last batch of testing.
+
+     17:45-19:45     11/11/2020         Created bubble sorting algorithm.
+  
+     15:30-18:45     17/11/2020         Changes to Wifi structure, other minor changes and implementation of sorting algorithm.
+
+     16:30-18:00     18/11/2020         Added priting function to sorting option, to display input and output of the sorting algorithm.
+
+     17:15-18:30     21/11/2020         Clean up of minor errors and final batch of testing options.
+
+     14:45-17:15     06/12/2020         Start implementation of linked list.
+
+     16:30-19:30     07/12/2020         Changing sorting file and implementing linked list into sorting algorithm.
+     
+     17:15-19:15     08/12/2020         Finishing changes to sorting file and testing the implementation of linked list.
+
+     18:30-21:30     09/12/2020         Last testing of sorting with linked list and removing any errors or warnings in code.
+
+     18:30-20:30     12/12/2020         Writting final comments in code and fixing any minor issues in the final code.

@@ -1,0 +1,31 @@
+***********************************************************************************************************************
+	HOUR		DAY		DESCRIPTION
+***********************************************************************************************************************
+     10:15-11:00     10/10/2020		Defining structures of the collector.
+      
+     18:30-21:15     11/10/2020         Starting with the reading of files.
+
+     10:15-14:00     15/10/2020         wificollector_collect finish at 100%
+
+     17:50-19:00     28/10/2020         Building of the functions in the main and first testings for funcionability.
+
+     22:30-01:10     28/10/2020         Implementing the wificollector_quit function, the loop for reading more than one 
+					info_cell and making all the elements needed for storing the "info_cells" into
+					a List of info_cell.
+					
+     09:20-10:40     29/10/2020         Error correction of code style and making explicative comments for all archives
+					and last testing of funcionability of the program
+
+     18:00-19:00     30/10/2020         Start looking for partial errors and how to implement dynamic memory.
+
+     17:00-19:00     10/11/2020         Start implementing dynamic memory in the proyects and solving memory errors in main.
+    
+     From 10/11/2020    19/11/2020      Debugging all the proyect and solving the memory error it has.
+    
+     18:00-20:00     21/11/2020         Start programming the function show_data_one_network (So much time spend in problems with the -g option in the compiler).
+    
+     10:00-11:00     22/11/2020         Rewrite and finish show_data_one_network
+
+     10:00-14:00     23/11/2020         Solved all memory issues and implementing the function wificollector_short
+     
+     18:00-19:00     23/11/2020         Writting comments and debugging the whole proyect
